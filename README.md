@@ -2,7 +2,7 @@
 
 [![DevCorvus Banner](https://i.ibb.co/0m9zYMG/devcorvus-image-preview.png)](https://www.devcorvus.com)
 
-<p style="aligh: right;">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=DevCorvus&style=flat-square&color=blue" alt="Profile views">
 </p>
 
