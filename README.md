@@ -51,7 +51,7 @@ My name is Luis Portillo, I'm a fullstack developer since 2020 from Venezuela, l
 ## 💬 Contact means
 
 - Contact Email: [devcorvus.contact@gmail.com](mailto:devcorvus.contact@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/luis-portillo-0b0a371bb/)
+- [LinkedIn](https://www.linkedin.com/in/devcorvus/)
 - Discord: **DevCorvus#4833**
 
 ## 🌠 Others
