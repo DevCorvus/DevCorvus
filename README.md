@@ -1,4 +1,4 @@
-#  ✨ Welcome to my GitHub profile! ✨
+# ✨ You're welcome! ✨
 
 [![DevCorvus Banner](https://i.ibb.co/0m9zYMG/devcorvus-image-preview.png)](https://www.devcorvus.com)
 
@@ -11,7 +11,7 @@
 My name is Luis Portillo, I'm a fullstack developer since 2020 from Venezuela, looking to especialize myself in backend engineering. Learning is my passion and constant improvement is the goal!
 
 - 🐱‍💻 I work as a freelance developer building web applications, focusing quality over quantity and attention to detail for software and people.
-- 📖 I'm currently learning Go, Edge engineering and some DevOps.
+- 📖 I'm currently learning Go, Rust, Edge engineering and some DevOps.
 - 🔥 In my free time I love to learn new things, especially those related to science and tech. Also playing videogames and watching anime sometimes.
 - 🚀 Building the software infrastructure of the future, one commit and deploy at a time!
 - 🌌 Interstellar Dream enjoyer 🔭
