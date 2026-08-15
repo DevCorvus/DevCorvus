@@ -11,8 +11,8 @@
 My name is Luis Portillo, I'm a full-stack developer since 2020 from Venezuela (backend lover). Learning is my passion and constant improvement is the goal!
 
 - 🐱💻 I work as a freelance developer building web applications and services, focusing quality over quantity and attention to detail for software and people.
-- 📖 I'm currently learning more about backend, "low level" programming, data structures and algorithms in Go, Rust and C++.
-- 🔥 In my free time I love to learn new things, especially those related to science and tech. Also playing videogames and watching anime sometimes.
+- 📖 I'm currently learning more about Game Design and Game Dev as a whole (pretty fun stuff).
+- 🔥 In my free time I love to learn new things, especially those related to science and tech. Also playing videogames and watching movies sometimes.
 - 🚀 Building the software infrastructure of the future, one commit and deploy at a time!
 - 🌌 Interstellar Dream enjoyer 🔭
 
